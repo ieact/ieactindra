@@ -1,0 +1,36 @@
+.box {
+  height: 150px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.box:hover {
+  box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.2);
+  transform: translateY(-5px);
+}
+.about {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.partner {
+  height: 150px; /* Specify the height with a unit (e.g., px) */
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  transition: box-shadow 0.3s;
+}
+
+.partner:hover {
+  box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.2);
+  transform: translateY(-5px);
+}
+.choose {
+ 
+  /* justify-content: center;
+  align-items: center; */
+  box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.1);
+  transform: translateY(-5px);
+  transition: box-shadow 0.3s;
+}
+
