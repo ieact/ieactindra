@@ -207,7 +207,7 @@ const HomePage = () => {
                 // borderRadius: "5px",
                 p: 4,
                 textAlign: "center",
-                height: 200,
+                minHeight: 200,
                 justifyContent: "center",
               }}
             >
@@ -227,7 +227,7 @@ const HomePage = () => {
                 // borderRadius: "5px",
                 p: 4,
                 textAlign: "center",
-                height: 200,
+                minHeight: 200,
                 justifyContent: "center",
               }}
             >
@@ -246,7 +246,7 @@ const HomePage = () => {
                 // borderRadius: "5px",
                 p: 4,
                 textAlign: "center",
-                height: 200,
+                minHeight: 200,
                 justifyContent: "center",
               }}
             >
@@ -265,7 +265,7 @@ const HomePage = () => {
                 // borderRadius: "5px",
                 p: 4,
                 textAlign: "center",
-                height: 200,
+                minHeight: 200,
                 justifyContent: "center",
               }}
             >
@@ -284,7 +284,7 @@ const HomePage = () => {
                 // borderRadius: "5px",
                 p: 4,
                 textAlign: "center",
-                height: 200,
+                minHeight: 200,
                 justifyContent: "center",
               }}
             >
@@ -303,7 +303,7 @@ const HomePage = () => {
                 // borderRadius: "5px",
                 p: 4,
                 textAlign: "center",
-                height: 200,
+                minHeight: 200,
                 justifyContent: "center",
               }}
             >

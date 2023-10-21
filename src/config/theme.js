@@ -23,16 +23,16 @@ const theme = createTheme({
     styleOverrides: {
       root: {
         subtitle1: {
-          fontsize: "24px",
+          fontSize: "24px",
         },
         subtitle2: {
-          fontsize: "20px",
+          fontSize: "20px",
         },
         subtitle3: {
-          fontsize: "18px",
+          fontSize: "18px",
         },
         body1: {
-          fontsize: "17px",
+          fontSize: "20px",
         },
       },
     },
